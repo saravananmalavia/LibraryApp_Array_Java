@@ -1,0 +1,3 @@
+2024/07/10 12:25:58 : Book : 1 java is already issued to 1005 john
+2024/07/10 12:26:33 : The Book : react is returned by : Oppie
+2024/07/10 12:27:34 :  Library : returnBook : java.lang.NullPointerException: Cannot invoke "con.lms.dto.Member.getPersonName()" because "<local4>" is null
